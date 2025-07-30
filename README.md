@@ -48,7 +48,7 @@ _Source: Kaggle - Online Retail Dataset_
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](<img width="1243" height="692" alt="Screenshot 2025-07-30 173217" src="https://github.com/user-attachments/assets/2071d5b6-0a62-4485-911c-29b34d7dd209" />)
+![Dashboard Screenshot]<img width="1243" height="692" alt="Screenshot 2025-07-30 173217" src="https://github.com/user-attachments/assets/2071d5b6-0a62-4485-911c-29b34d7dd209" />
 
 ## 📥 How to Use
 
