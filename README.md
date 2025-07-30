@@ -1,4 +1,4 @@
-<img width="1243" height="692" alt="Screenshot 2025-07-30 173217" src="https://github.com/user-attachments/assets/2071d5b6-0a62-4485-911c-29b34d7dd209" /># 📊 E-Commerce Sales Dashboard - Power BI Project
+# 📊 E-Commerce Sales Dashboard - Power BI Project
 
 This repository contains an interactive Power BI dashboard built as part of a real-world internship task. The dashboard analyzes e-commerce sales data to help business users understand sales trends, product performance, and customer behavior.
 
@@ -48,8 +48,7 @@ _Source: Kaggle - Online Retail Dataset_
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](![Uploading Screenshot 2025-07-30 173217.png…])
-
+![Dashboard Screenshot](<img width="1243" height="692" alt="Screenshot 2025-07-30 173217" src="https://github.com/user-attachments/assets/2071d5b6-0a62-4485-911c-29b34d7dd209" />)
 
 ## 📥 How to Use
 
